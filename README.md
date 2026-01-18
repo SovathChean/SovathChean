@@ -71,6 +71,45 @@ I'm a **Full Stack Developer** passionate about building robust, scalable applic
 
 ---
 
+## Featured Projects
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://spendcalm.komror.com">
+        <img src="https://img.shields.io/badge/SpendCalm-Budget_Tracker-4CAF50?style=for-the-badge&logo=cash-app&logoColor=white" alt="SpendCalm"/>
+      </a>
+      <br/>
+      <sub>Personal finance & budget tracking app</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://memolog.komror.com">
+        <img src="https://img.shields.io/badge/MemoLog-Task_Manager-6C63FF?style=for-the-badge&logo=todoist&logoColor=white" alt="MemoLog"/>
+      </a>
+      <br/>
+      <sub>Task management with calendar & progress tracking</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://demo-stylica.komror.com/home">
+        <img src="https://img.shields.io/badge/Stylica-Demo_Platform-FF6B6B?style=for-the-badge&logo=stylelint&logoColor=white" alt="Stylica"/>
+      </a>
+      <br/>
+      <sub>Modern web application demo</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://t.me/DoxiKHBot">
+        <img src="https://img.shields.io/badge/DoxiKH_Bot-RAG_Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="DoxiKH Bot"/>
+      </a>
+      <br/>
+      <sub>AI-powered RAG Telegram bot</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Current Focus
 
 - Building **AI-powered applications** with LLMs and VectorDBs
